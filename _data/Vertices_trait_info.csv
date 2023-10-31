@@ -1,0 +1,40 @@
+XID,Nodes,Recorders,node_new,TRY6_species,recordsTRY6,Selection,Organ,Organ_color,ID,explainment,data_availablity_try5,data_availablity,cost
+X4,SSD,32623,SSD,12812,96095,2,Stem,#457BA6,4,Stem specific density (SSD) or wood density (stem dry mass per stem fresh volume),32623,96095,2.14
+X6,RD,2970,RD,4032,12439,2,Root,#b3a97d,6,Root rooting depth,2970,12439,5.94
+X11,SLA,201140,LSLA,16599,438996,2,Leaf,#208B3B,11,"Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA)",201140,438996,1
+X13,LCC.m,26006,LCC.m,7509,77666,2,Leaf,#208B3B,13,Leaf carbon (C) content per leaf dry mass,26006,77666,2.38
+X14,LNC.m,64071,LNC.m,13621,165142,2,Leaf,#208B3B,14,Leaf nitrogen (N) content per leaf dry mass,64071,165142,1.63
+X15,LPC.m,27556,LPC.m,8671,73072,2,Leaf,#208B3B,15,Leaf phosphorus (P) content per leaf dry mass,27556,73072,2.45
+X18,Height,130438,Max.H,35466,414937,2,Plant,#2C9576,18,Plant height,130438,414937,1.03
+X21,SD,23239,SD,8426,215415,2,Plant,#2C9576,21,Stem diameter,23239,215415,1.43
+X26,SdM,69456,SdM,43227,317503,2,Seed,#d34b76,26,Seed dry mass,69456,317503,1.18
+X27,SdL,4302,,3861,27848,1,Seed,#d34b76,27,Seed length,4302,27848,3.97
+X46,Lthick,42136,Lthick,7773,126654,2,Leaf,#208B3B,46,Leaf thickness,42136,126654,1.86
+X47,LDMC,110529,LDMC,9688,293469,2,Leaf,#208B3B,47,"Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)",110529,293469,1.22
+X78,L15N,15981,L15N,3561,23956,2,Leaf,#208B3B,78,Leaf nitrogen (N) isotope signature (delta 15N),15981,23956,4.28
+X95,SdGE,9960,,15724,71098,1,Seed,#d34b76,95,Seed germination rate (germination efficiency),9960,71098,2.48
+X138,SdNum,10287,,2586,14887,1,Seed,#d34b76,138,Seed number per reproducton unit,10287,14887,5.43
+X144,Llen,18029,,11500,66551,1,Leaf,#208B3B,144,Leaf length,18029,66551,2.57
+X145,Lwid,20864,,10859,96570,1,Leaf,#208B3B,145,Leaf width,20864,96570,2.13
+X146,LCNR,27420,LCNR,5843,47595,2,Leaf,#208B3B,146,Leaf carbon/nitrogen (C/N) ratio,27420,47595,3.04
+X163,LFM,35006,,3442,83586,1,Leaf,#208B3B,163,Leaf fresh mass,35006,83586,2.29
+X169,SCDen,6366,,8211,21077,1,Stem,#457BA6,169,Stem conduit density (vessels and tracheids),6366,21077,4.56
+X237,DispL,9454,,2933,19094,1,Seed,#d34b76,237,Dispersal unit length,9454,19094,4.79
+X281,SCDia,4288,,7189,23257,1,Stem,#457BA6,281,"Stem conduit diameter (vessels, tracheids)",4288,23257,4.34
+X282,SCElen,3382,,5757,15243,1,Stem,#457BA6,282,Wood vessel element length; stem conduit (vessel and tracheids) element length,3382,15243,5.37
+X289,WDL,3310,,5777,16363,1,Stem,#457BA6,289,Wood fiber lengths,3310,16363,5.18
+X1080,SRL,5714,RSRL,1308,16162,2,Root,#b3a97d,1080,"Root length per root dry mass (specific root length, SRL)",5714,16162,5.21
+X3112,LA,71484,LA,11097,131963,2,Leaf,#208B3B,3112,"Leaf area (in case of compound leaves: leaf, undefined if petiole in- or excluded)",71484,131963,1.82
+X3120,LWC,46461,,3608,114633,1,Leaf,#208B3B,3120,Leaf water content per leaf dry mass (not saturated),46461,114633,1.96
+X53,Aarea,,Aarea,,68661,3,Leaf,#208B3B,53,Photosynthesis rate per leaf area,22887,68661,2.53
+X48,LD,,LD,,52627,3,Leaf,#208B3B,48,"Leaf density (leaf tissue density, leaf dry mass per leaf volume)",17542,52627,2.89
+X55,LDM,,LDM,,177383,3,Leaf,#208B3B,55,Leaf dry mass (single leaf),59128,177383,1.57
+X12,LL,,LL,,7842,3,Leaf,#208B3B,12,Leaf lifespan (longevity),2614,7842,7.48
+X45,LSC,,LSC,,54309,3,Leaf,#208B3B,45,Stomata conductance per leaf area,18103,54309,2.84
+X145,LWid,,LWid,,96570,3,Leaf,#208B3B,145,Leaf width,32190,96570,2.13
+X54,Rarea,,Rarea,,23674,3,Leaf,#208B3B,54,Leaf respiration rate in the dark per leaf area,7891,23674,4.31
+X83,Rdia,,Rdia,,11842,3,Root,#b3a97d,83,Root diameter,7895,11842,6.09
+X1030,RMI,,RMI,,8724,3,Root,#b3a97d,1030,Mycorrhizal infection intensity,5816,8724,7.09
+X80,RNC,,RNC,,9926,3,Root,#b3a97d,80,Root nitrogen (N) content per root dry mass,6617,9926,6.65
+X82,RTD,,RTD,,11493,3,Root,#b3a97d,82,Root tissue density (root dry mass per root volume),7662,11493,6.18
+X719,SHV,,SHV,,30380,3,Stem,#457BA6,719,"Xylem hydraulic vulnerability, xylem cavitation vulnerability, embolism vulnerability, (P20, P50, P8",10127,30380,3.8
